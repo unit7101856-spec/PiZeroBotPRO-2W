@@ -1,4 +1,5 @@
 Everything in GitHub will allow you to re-create the code and PCB needed to be combined with a Raspberry Pi Zero 2W!
+I do have a YouTube Video that showcases what the robot can do: https://youtu.be/AIYBcQv2vvM?si=ceHZ5PtHgmAAmE5k
 
 You will need to download and print the shell and wheels:
 https://www.thingiverse.com/thing:7388207
